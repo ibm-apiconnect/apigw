@@ -1,2 +1,1 @@
-# apigw
-Auxillary Repo for IBM API Connect API Gateway
+# apigw - IBM API Connect API Gateway
